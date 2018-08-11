@@ -1,0 +1,1 @@
+<script src="<?= ASSETS_STATIC ?>js/backend/admin/admin.js"></script>
